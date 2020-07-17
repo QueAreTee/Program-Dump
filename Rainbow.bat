@@ -1,6 +1,6 @@
 echo off
 color e
-mode con lines=3 cols=87 
+mode con lines=10 cols=87 
 cls
 echo Made by QueAreTee visit my github for more https://github.com/QueAreTee/Program-Dump
 set /p IP=Enter IP you want to ping: 
